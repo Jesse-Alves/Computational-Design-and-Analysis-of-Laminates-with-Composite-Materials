@@ -46,20 +46,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-<!--         <li><a href="#installation">Installation</a></li> -->
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-<!--     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li> -->
     <li><a href="#contact">Contact</a></li>
 <!--     <li><a href="#acknowledgments">Acknowledgments</a></li> -->
   </ol>
@@ -70,21 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!--[![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-This report shows the results and a brief analysis of the simulation with
-different human head models, using HyperWorks21. For this propose, two
-main types of impact were considered, one vertical and another horizontal
-(Figure beside). For both configurations, the head was fixed from the bottom
-side, representing the presence of the neck. Furthermore, two main models
-were used, the first one contains the Brain, Pia, CSF and Skull. The second one
-contains all these four parts plus the Skin (Figure beside). Each part has the
-following characteristics:
-* The Brain was modeled using 3D elements and two different models: Boltzman Humain (foam 34) and Mooney-Rivlin (hyperelastic 42).
-* The Pia was modeled using 2D elements.
-* The CSF was modeled using 3D elements.
-* The Skull was modeled using 2D elements and was divided in 3 parts representing the cortical and spongious materials.
-* The Skin was modeled using 3D elements
-[Full article]()
+This study explores the project and analysis of laminates incorporating cutting-edge composite materials such as glass fiber and carbon fiber. Using MATLAB's computational prowess, a meticulous approach was undertaken to manipulate and comprehend the complex nature of these structures. The integration of composite materials intricately tailored the mechanical properties, enhancing structural robustness. The synergy between computational precision and material innovation elucidated the delicate relationship between design parameters and structural performance. This is a simple project to design a laminate that can be used, for example, in prosthetics in the context of the medical field.
 
 <!--
 <p float="left">
@@ -94,8 +66,8 @@ following characteristics:
 -->
 
 <div align="center">
-  <a href="https://github.com/Jesse-Alves/Pose-Estimation-and-3D-Registration/blob/main/Pose_Estimation_3D_Registration.pdf">
-    <img src="images/img.JPG" width="500" height="450" />
+  <a href="">
+    <img src="images/img.jpg" width="500" height="450" />
   </a>
 </div>
 
@@ -117,17 +89,8 @@ following characteristics:
 
 
 ### Built With
-* [![HyperWorks 21](https://img.shields.io/badge/HyperWorks_21-005A8C?style=for-the-badge&logo=Altair&logoColor=white)](https://www.altair.com/)
+* [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 
-<!-- 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,11 +98,9 @@ following characteristics:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is a >Modeling of Living Systems and Simulations in Biomechanics project designed in HyperWorks21 software.
-
 ### Prerequisites
 
-All this project was built using different tools of the HyperWorks21 software.
+All this project was built using Matlab software.
 <!--This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
@@ -168,19 +129,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 -->
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-All the codes of the project are available [here]() and can be directly simulated.  
-
-More details about the project can be found in the [article]() attached.
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
