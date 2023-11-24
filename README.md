@@ -67,7 +67,7 @@ This study explores the project and analysis of laminates incorporating cutting-
 
 <div align="center">
   <a href="">
-    <img src="images/img.jpg" width="600" height="400" />
+    <img src="images/img.jpg" width="800" height="400" />
   </a>
 </div>
 
